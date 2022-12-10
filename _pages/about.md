@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student in Business School and MultiX group at University of Amsterdam. I luckily get technically supervision from [Dr. Stevan Rudinac](https://stevanrudinac.com/) and [Prof. Marcel Worring](https://staff.fnwi.uva.nl/m.worring/), and business related supervision from [Dr. Monika Kackovic](https://www.uva.nl/profiel/k/a/m.kackovic/m.kackovic.html) and [Prof. Nachoem Wijnberg](https://www.uva.nl/profiel/w/i/n.m.wijnberg/n.m.wijnberg.html). My research focus on (Hyper)graph learning, Multimodal and Business Analytics.
+I am a first-year PhD student in Business School and MultiX group at University of Amsterdam. I luckily get technically supervision from [Dr. Stevan Rudinac](https://stevanrudinac.com/) and [Prof. dr. Marcel Worring](https://staff.fnwi.uva.nl/m.worring/), and business related supervision from [Dr. Monika Kackovic](https://www.uva.nl/profiel/k/a/m.kackovic/m.kackovic.html) and [Prof. dr. Nachoem Wijnberg](https://www.uva.nl/profiel/w/i/n.m.wijnberg/n.m.wijnberg.html). My research focus on (Hyper)graph learning, Multimodal and Business Analytics.
 
 Before starting my PhD, I completed my Master degree in Artificial Intelligence at the University of Amsterdam on Cum Laude, with my thesis on sign language processing supervised by [Dr. Eric Nalisnick](https://enalisnick.github.io/). I  was also a AI intern in Shell Technology Center and a research assistant on Computer graphics. Before that, I did my Bachelor's in Aerospace Engineering focused on Computational fluid dynamics at Shenyang Aerospace university.
 
@@ -16,8 +16,8 @@ Before starting my PhD, I completed my Master degree in Artificial Intelligence 
 
 ### **Active Learning for Multilingual Fingerspelling Corpora**
 
-**Shuai Wang**, Eric Nalisnick, ICML 2022 workshop: Adaptive Experimental Design and Active Learning in the Real World. [[pdf](https://realworldml.github.io/files/cr/paper72.pdf)]
+**Shuai Wang**, Eric Nalisnick, ICML workshop: Adaptive Experimental Design and Active Learning in the Real World, 2022. [[pdf](https://realworldml.github.io/files/cr/paper72.pdf)]
 
 ### **Paint4Poem: A Dataset for Artistic Visualization of Classical Chinese Poems**
 
-Dan Li, **Shuai Wang**, Jie Zou, Chang Tian, Elisha Nieuwburg, Fengyuan Sun, Evangelos Kanoulas, 2021, arXiv. [[pdf](https://arxiv.org/abs/2109.11682)] [[code](https://github.com/paint4poem/paint4poem)]
+Dan Li, **Shuai Wang**, Jie Zou, Chang Tian, Elisha Nieuwburg, Fengyuan Sun, Evangelos Kanoulas, , arXiv, 2021. [[pdf](https://arxiv.org/abs/2109.11682)]
