@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shuai Wang"
+title                    : "Shuai Wang's homepage"
 title_separator          : "-"
 name                     : &name "Shuai Wang"
 description              : &description "personal description"
