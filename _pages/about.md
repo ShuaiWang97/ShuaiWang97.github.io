@@ -16,7 +16,7 @@ Before starting my PhD, I completed my Master degree in Artificial Intelligence 
 
 ### **Towards Open-Vocabulary Video Instance Segmentation**
 
-Haochen Wang, **Shuai Wang**, Cilin Yan, Xiaolong Jiang, XU Tang, Yao Hu, Weidi Xie, Efstratios Gavves，arXiv, 2023. [[pdf](https://arxiv.org/abs/2304.01715)]
+Haochen Wang, **Shuai Wang**, Cilin Yan, Xiaolong Jiang, XU Tang, Yao Hu, Weidi Xie, Efstratios Gavves, arXiv, 2023. [[pdf](https://arxiv.org/abs/2304.01715.pdf)]
 
 ### **Active Learning for Multilingual Fingerspelling Corpora**
 
@@ -24,4 +24,4 @@ Haochen Wang, **Shuai Wang**, Cilin Yan, Xiaolong Jiang, XU Tang, Yao Hu, Weidi 
 
 ### **Paint4Poem: A Dataset for Artistic Visualization of Classical Chinese Poems**
 
-Dan Li, **Shuai Wang**, Jie Zou, Chang Tian, Elisha Nieuwburg, Fengyuan Sun, Evangelos Kanoulas, arXiv, 2021. [[pdf](https://arxiv.org/abs/2109.11682)]
+Dan Li, **Shuai Wang**, Jie Zou, Chang Tian, Elisha Nieuwburg, Fengyuan Sun, Evangelos Kanoulas, arXiv, 2021. [[pdf](https://arxiv.org/abs/2109.11682.pdf)]
