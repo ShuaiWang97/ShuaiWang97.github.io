@@ -14,10 +14,14 @@ Before starting my PhD, I completed my Master degree in Artificial Intelligence 
 
 # Publications
 
+### **Towards Open-Vocabulary Video Instance Segmentation**
+
+Haochen Wang, **Shuai Wang**, Cilin Yan, Xiaolong Jiang, XU Tang, Yao Hu, Weidi Xie, Efstratios Gavves，arXiv, 2023. [[pdf](https://arxiv.org/abs/2304.01715)]
+
 ### **Active Learning for Multilingual Fingerspelling Corpora**
 
 **Shuai Wang**, Eric Nalisnick, ICML workshop: Adaptive Experimental Design and Active Learning in the Real World, 2022. [[pdf](https://realworldml.github.io/files/cr/paper72.pdf)]
 
 ### **Paint4Poem: A Dataset for Artistic Visualization of Classical Chinese Poems**
 
-Dan Li, **Shuai Wang**, Jie Zou, Chang Tian, Elisha Nieuwburg, Fengyuan Sun, Evangelos Kanoulas, , arXiv, 2021. [[pdf](https://arxiv.org/abs/2109.11682)]
+Dan Li, **Shuai Wang**, Jie Zou, Chang Tian, Elisha Nieuwburg, Fengyuan Sun, Evangelos Kanoulas, arXiv, 2021. [[pdf](https://arxiv.org/abs/2109.11682)]
