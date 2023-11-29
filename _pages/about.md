@@ -9,9 +9,17 @@ redirect_from:
 
 ---
 
+<<<<<<< Updated upstream
 I am a first-year PhD student at University of Amsterdam, jointly in Amsterdam Business School and MultiX lab in Informatics Institute. I luckily get business-related supervision from [Dr. Monika Kackovic](https://www.uva.nl/profiel/k/a/m.kackovic/m.kackovic.html) and [Prof. dr. Nachoem Wijnberg](https://www.uva.nl/profiel/w/i/n.m.wijnberg/n.m.wijnberg.html), and technical supervision from [Dr. Stevan Rudinac](https://stevanrudinac.com/) and  [Prof. dr. Marcel Worring](https://staff.fnwi.uva.nl/m.worring/). My research focuses on *Multimodal (Hyper)graph learning, Generative Modelling, and their applications combined with business theory in Science and Cultural industry*. 
+=======
+<<<<<<< HEAD
+I am a first-year PhD student at University of Amsterdam, jointly in Amsterdam Business School and MultiX lab in Informatics Institute. I luckily get business-related supervision from [Dr. Monika Kackovic](https://www.uva.nl/profiel/k/a/m.kackovic/m.kackovic.html) and [Prof. dr. Nachoem Wijnberg](https://www.uva.nl/profiel/w/i/n.m.wijnberg/n.m.wijnberg.html), and technical supervision from [Dr. Stevan Rudinac](https://stevanrudinac.com/) and  [Prof. dr. Marcel Worring](https://staff.fnwi.uva.nl/m.worring/). My research focuses on *Multimodal (Hyper)graph learning, Generative Modelling, and their applications combined with business theory in Science and Cultural industry*. 
+=======
+I am a first-year PhD student at University of Amsterdam, jointly in Amsterdam Business School and MultiX lab in Informatics Institute. I luckily get business-related supervision from [Dr. Monika Kackovic](https://www.uva.nl/profiel/k/a/m.kackovic/m.kackovic.html) and [Prof. dr. Nachoem Wijnberg](https://www.uva.nl/profiel/w/i/n.m.wijnberg/n.m.wijnberg.html), and technical supervision from [Dr. Stevan Rudinac](https://stevanrudinac.com/) and  [Prof. dr. Marcel Worring](https://staff.fnwi.uva.nl/m.worring/). My research focuses on Business Theory Driven Multimedia (Hyper)graph learning, and its applications in the Cultural Industry and Science 
+>>>>>>> de27c418ec0dfc2e521ef778dbbe180ec677ef10
+>>>>>>> Stashed changes
 
-Before starting my PhD, I completed my Master degree in Artificial Intelligence at the University of Amsterdam (Cum Laude), with my thesis on sign language processing supervised by [Dr. Eric Nalisnick](https://enalisnick.github.io/). I was also an AI intern at Shell Technology Center and a research assistant on Computer graphics. Before that, I did my Bachelor’s in Aerospace Engineering focused on Computational fluid dynamics at Shenyang Aerospace university.
+Before starting my PhD, I completed my Master degree in Artificial Intelligence at the University of Amsterdam (Cum Laude), with my thesis on sign language processing supervised by [Dr. Eric Nalisnick](https://enalisnick.github.io/). I was also an AI intern at Shell Technology Center and a research assistant on Computer graphics.
 
 # Publications
 
@@ -29,4 +37,12 @@ Haochen Wang, Cilin Yan,**Shuai Wang**,  Xiaolong Jiang, XU Tang, Yao Hu, Weidi 
 
 ### **Paint4Poem: A Dataset for Artistic Visualization of Classical Chinese Poems**
 
+<<<<<<< Updated upstream
 Dan Li, **Shuai Wang**, Jie Zou, Chang Tian, Elisha Nieuwburg, Fengyuan Sun, Evangelos Kanoulas, arXiv, 2021. [[pdf](https://arxiv.org/abs/2109.11682)]
+=======
+<<<<<<< HEAD
+Dan Li, **Shuai Wang**, Jie Zou, Chang Tian, Elisha Nieuwburg, Fengyuan Sun, Evangelos Kanoulas, arXiv, 2021. [[pdf](https://arxiv.org/abs/2109.11682)]
+=======
+Dan Li, **Shuai Wang**, Jie Zou, Chang Tian, Elisha Nieuwburg, Fengyuan Sun, Evangelos Kanoulas, arXiv, 2021. [[pdf](https://arxiv.org/abs/2109.11682.pdf)]
+>>>>>>> de27c418ec0dfc2e521ef778dbbe180ec677ef10
+>>>>>>> Stashed changes
