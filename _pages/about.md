@@ -15,18 +15,18 @@ Before starting my PhD, I completed my Master degree in Artificial Intelligence 
 
 # Publications
 
-#### Prototype-Enhanced Hypergraph Learning for Heterogeneous Information Networks
+### Prototype-Enhanced Hypergraph Learning for Heterogeneous Information Networks
 
 **Shuai Wang**, Jiayi Shen, Athanasios Efthymiou, Stevan Rudinac, Monika Kackovic, Nachoem Wijnberg, Marcel Worring, International Conference on Multimedia Modeling (MMM) 2023. [[pdf](https://arxiv.org/pdf/2309.13092.pdf)]
 
-#### Towards Open-Vocabulary Video Instance Segmentation
+### Towards Open-Vocabulary Video Instance Segmentation
 
 Haochen Wang, Cilin Yan,**Shuai Wang**,  Xiaolong Jiang, XU Tang, Yao Hu, Weidi Xie, Efstratios Gavves, International Conference on Computer Vision (ICCV) Oral 2023. [[pdf](https://arxiv.org/abs/2304.01715)]
 
-#### **Active Learning for Multilingual Fingerspelling Corpora**
+### **Active Learning for Multilingual Fingerspelling Corpora**
 
 **Shuai Wang**, Eric Nalisnick, ICML workshop: Adaptive Experimental Design and Active Learning in the Real World 2022. [[pdf](https://realworldml.github.io/files/cr/paper72.pdf)]
 
-#### **Paint4Poem: A Dataset for Artistic Visualization of Classical Chinese Poems**
+### **Paint4Poem: A Dataset for Artistic Visualization of Classical Chinese Poems**
 
 Dan Li, **Shuai Wang**, Jie Zou, Chang Tian, Elisha Nieuwburg, Fengyuan Sun, Evangelos Kanoulas, arXiv 2021. [[pdf](https://arxiv.org/abs/2109.11682)]
