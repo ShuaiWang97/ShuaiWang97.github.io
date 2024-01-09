@@ -17,13 +17,8 @@ Before starting my PhD, I completed my Master degree in Artificial Intelligence 
 
 ### Prototype-Enhanced Hypergraph Learning for Heterogeneous Information Networks
 
-<<<<<<< HEAD
-**Shuai Wang**, Jiayi Shen, Athanasios Efthymiou, Stevan Rudinac, Monika Kackovic, Nachoem Wijnberg, Marcel Worring, International Conference on Multimedia Modeling (MMM) 2024. [[pdf](https://arxiv.org/pdf/2309.13092.pdf)]        
-
-Also presented at the Graph Learning Frontiers workshop at NeurIPS 2023
-=======
 **Shuai Wang**, Jiayi Shen, Athanasios Efthymiou, Stevan Rudinac, Monika Kackovic, Nachoem Wijnberg, Marcel Worring, International Conference on Multimedia Modeling  2023. [[pdf](https://arxiv.org/pdf/2309.13092.pdf)]
->>>>>>> d2412894a8efdac857ca4b8d31edb9595a07293d
+Also presented at the Graph Learning Frontiers workshop at NeurIPS 2023
 
 ### Towards Open-Vocabulary Video Instance Segmentation
 
