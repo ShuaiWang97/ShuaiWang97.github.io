@@ -15,9 +15,13 @@ Before starting my PhD, I completed my Master degree in Artificial Intelligence 
 
 # Publications
 
-**Adaptive Sampling for Scalable Hypergraph Neural Networks**
+**Ada-HGNN: Adaptive Sampling for Scalable Hypergraph Neural Networks**
 
-**Shuai Wang**, Shuai Wang, David W. Zhang, Stevan Rudinac, Monika Kackovic, Nachoem Wijnberg, Marcel Worring, under review at conference, 2024.
+**Shuai Wang**, David W. Zhang, Jia-Hong Huang, Stevan Rudinac, Monika Kackovic, Nachoem Wijnberg, Marcel Worring,  arXiv 2024. [[pdf](https://www.arxiv.org/abs/2405.13372)]
+
+**High-performance computing in healthcare: An automatic literature analysis perspective**
+
+Li  Jieyi, **Shuai Wang**, Stevan Rudinac, Anwar Osseyran. (2024). *Journal Big Data* **11**, 61 (2024) [[pdf](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-024-00929-2)]
 
 **Prototype-Enhanced Hypergraph Learning for Heterogeneous Information Networks**
 
