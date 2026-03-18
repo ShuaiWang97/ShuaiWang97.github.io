@@ -31,10 +31,10 @@ Before starting my PhD, I did my Master's in Artificial Intelligence at the Univ
 ## Publications
 
 **A-MAR: Agent-based Multimodal Art Retrieval for Fine-Grained Artwork Understanding**
-**Shuai Wang**, Jia-Hong Huang, Hongyi Zhu, Stevan Rudinac, Monika Kackovic, Nachoem Wijnberg, Marcel Worring. *ACM ICMR 2026* (submitted).
+**Shuai Wang**, Hongyi Zhu, Jia-Hong Huang, Yixian Shen, Simon Zeng, Stevan Rudinac, Monika Kackovic, Nachoem Wijnberg, Marcel Worring. *ACM ICMR 2026* (submitted).
 
 **ArtRAG: Multi-Topic Contextual Art Description Generation using Graph Retrieval-Augmented Generation**
-**Shuai Wang**, Anoop Namboori, Hongyi Zhu, Stevan Rudinac, Monika Kackovic, Nachoem Wijnberg, Marcel Worring. *ACM MM 2025* \[[pdf](https://arxiv.org/abs/2505.06020)\]
+**Shuai Wang**, Ivona Najdenkoska, Hongyi Zhu, Stevan Rudinac, Monika Kackovic, Nachoem Wijnberg, Marcel Worring. *ACM MM 2025* \[[pdf](https://arxiv.org/abs/2505.06020)\]
 
 **Ada-HGNN: Adaptive Sampling for Scalable Hypergraph Neural Networks**
 **Shuai Wang**, David W. Zhang, Jia-Hong Huang, Stevan Rudinac, Monika Kackovic, Nachoem Wijnberg, Marcel Worring. *Under Review 2025*. \[[pdf](https://www.arxiv.org/abs/2405.13372)\]
