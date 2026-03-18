@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shuai Wang's homepage"
 title_separator          : "-"
 name                     : &name "Shuai Wang"
-description              : &description "personal description"
+description              : &description "AI PhD Candidate at the University of Amsterdam specializing in Agentic AI and Agent Reasoning."
 url                      : https://shuaiwang97.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ShuaiWang97/shuaiwang97.github.io" #"academicpages/academicpages.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Shuai Wang"
   avatar           : "profile.png"
-  bio              : "PhD Student in Artifical Intelligence @ UvA"
-  location         : "Amsterdam, Netherland"
+  bio              : "AI PhD Candidate @ UvA | Agentic AI & Agent Reasoning | ex-Amazon, ex-Booking.com"
+  location         : "Amsterdam, Netherlands"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=TQ-8c2kAAAAJ&hl=en"
